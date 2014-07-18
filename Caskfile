@@ -1,0 +1,34 @@
+# Install native apps
+# Usage: `brew bundle Caskfile`
+
+install caskroom/cask/brew-cask
+tap caskroom/versions
+
+cask install adobe-creative-cloud 2> /dev/null
+cask install appcleaner 2> /dev/null
+cask install caffeine 2> /dev/null
+cask install carbon-copy-cloner 2> /dev/null
+cask install cloud 2> /dev/null
+cask install dropbox 2> /dev/null
+cask install evernote 2> /dev/null
+cask install firefox 2> /dev/null
+cask install google-chrome 2> /dev/null
+cask install jumpcut 2> /dev/null
+cask install knox 2> /dev/null
+cask install miro-video-converter 2> /dev/null
+cask install onepassword 2> /dev/null
+cask install opera 2> /dev/null
+cask install quickcast 2> /dev/null
+cask install sequel-pro 2> /dev/null
+cask install silverlight 2> /dev/null
+cask install sketch 2> /dev/null
+cask install skype 2> /dev/null
+cask install subler 2> /dev/null
+cask install sublime-text 2> /dev/null
+cask install the-unarchiver 2> /dev/null
+cask install tower 2> /dev/null
+cask install transmission 2> /dev/null
+cask install transmit 2> /dev/null
+cask install vagrant 2> /dev/null
+cask install virtualbox 2> /dev/null
+cask install vlc 2> /dev/null
